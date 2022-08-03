@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dom</h1>
+<h1 align="left">Welcome Traveler</h1>
 <h3 align="center">Big Bob Ross guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominickfabry&label=Profile%20views&color=0e75b6&style=flat" alt="dominickfabry" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominickfabry" alt="dominickfabry" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
